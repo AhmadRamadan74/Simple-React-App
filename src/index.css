@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer custom{
+    .active{
+        @apply bg-[#1ABC9C] rounded-lg transition-all;
+    }
+}
+
+
