@@ -1,4 +1,3 @@
-import React from 'react'
 import siteImg from '../../assets/Images/avataaars.svg'
 export default function Home() {
     return (
